@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compeny>
+<employee id="10234">
+<name>salman</name>
+<salary>5000</salary>
+<joiningdate>2-2-2015</joiningdate>
+<position>manager</position>
+</employee>
+<employee id="10234">
+<name>ibrahim</name>
+<salary>20000</salary>
+<joiningdate>3-5-1990</joiningdate>
+<position>ceo</position>
+</employee>
+<employee id="10234">
+<name>asim</name>
+<salary>5000</salary>
+<joiningdate>4-4-2017</joiningdate>
+<position>manager</position>
+</employee>
+<employee id="10234">
+<name>ghazanfer</name>
+<salary>5000</salary>
+<joiningdate>8-10-2015</joiningdate>
+<position>manager</position>
+</employee>
+<employee id="10234">
+<name>saima</name>
+<salary>100000</salary>
+<joiningdate>2-5-2000</joiningdate>
+<position>md</position>
+</employee>
+</compeny>
