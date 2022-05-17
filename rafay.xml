@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company [
+    <!ELEMENT company (employee)*>
+    <!ELEMENT employee (name,age,city)>
+    <!ELEMENT name (#PCDATA)>   
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT city (#PCDATA)>   
+    <!ATTLIST employee id CDATA #REQUIRED> 
+]>
+
+
+
+
+
+<company>
+<employee id="12">
+<name>haseeb</name>
+<age>19</age>
+<city>karachi</city>
+</employee>
+
+<employee id="12">
+    <name>rafay</name>
+    <age>24</age>
+    <city>lahore</city>
+    </employee>
+
+    <employee id="12">
+        <name>taha</name>
+        <age>16</age>
+        <city>islamabad</city>
+        </employee>
+
+        <employee id="12">
+            <name>rafayabbas</name>
+            <age>15</age>
+            <city>punjab</city>
+            </employee>
+
+</company>
